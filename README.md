@@ -13,7 +13,12 @@
     Place the Conviva library in app's 'lib' folder and add the following line to app's build.gradle file.
     
     implementation fileTree(dir: 'libs',include:['*.aar'])
-    
+
+## Supported Android OS Version    
+    Android 10
+
+## Supported NexPlayer SDK Version    
+    NexPlayer 6.69.2
     
 ## Note:  
 
