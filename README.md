@@ -19,6 +19,10 @@
 
 ## Supported NexPlayer SDK Version    
     NexPlayer 6.71
+
+## Support Conviva Android CoreSDK Version
+    Conviva Android CoreSDK v4.0.10.141
+    https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.10.141
     
 ## Note:  
 
