@@ -1,3 +1,9 @@
+## 4.0.2.18 (11/NOV/2020)
+
+* Supports Nexplayer 6.71
+* Supports Android 11
+* Supports auto collection of Dropped Frames during playback (Core SDK 4.0.10 and above)
+
 ## 4.0.1.4 (24/JUN/2020)
 
 * Supports NexStreaming v6.69.2.
